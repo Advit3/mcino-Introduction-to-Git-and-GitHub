@@ -1,6 +1,6 @@
 # Simple Interest Calculator
 
-A small Bash command-line calculator for simple interest. It asks for the principal amount, annual interest rate, and time period in years, then calculates:
+A simple Bash command-line calculator for simple interest. It asks for the principal amount, annual interest rate, and time period in years, then calculates:
 
 `simple interest = principal × rate × time / 100`
 
