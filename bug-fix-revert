@@ -1,0 +1,24 @@
+Command:
+curl -sS -L https://api.github.com/repos/ibm-developer-skills-network/mcino-Introduction-to-Git-and-GitHub/pulls/12895
+
+Output (relevant fields from the public GitHub API response):
+{
+  "html_url": "https://github.com/ibm-developer-skills-network/mcino-Introduction-to-Git-and-GitHub/pull/12895",
+  "number": 12895,
+  "state": "closed",
+  "merged": false,
+  "head": {
+    "label": "Advit3:bug-fix-revert",
+    "ref": "bug-fix-revert",
+    "repo": {
+      "full_name": "Advit3/mcino-Introduction-to-Git-and-GitHub",
+      "fork": true
+    }
+  },
+  "base": {
+    "label": "ibm-developer-skills-network:main",
+    "repo": {
+      "full_name": "ibm-developer-skills-network/mcino-Introduction-to-Git-and-GitHub"
+    }
+  }
+}
