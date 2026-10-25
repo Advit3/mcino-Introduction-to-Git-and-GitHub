@@ -4,6 +4,8 @@ A simple Bash command-line calculator for simple interest. It asks for the princ
 
 `simple interest = principal × rate × time / 100`
 
+The rate is entered as a percentage; for example, enter 5 for 5%.
+
 ## Run
 
 On Linux, macOS, or Windows with Git Bash:
