@@ -1,0 +1,11 @@
+Command:
+curl -sS https://api.github.com/repos/Advit3/mcino-Introduction-to-Git-and-GitHub
+
+Output (relevant fields from the public GitHub API response):
+{
+  "full_name": "Advit3/mcino-Introduction-to-Git-and-GitHub",
+  "fork": true,
+  "parent": {
+    "full_name": "ibm-developer-skills-network/mcino-Introduction-to-Git-and-GitHub"
+  }
+}

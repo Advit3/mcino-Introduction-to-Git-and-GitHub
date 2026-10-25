@@ -1,0 +1,13 @@
+PS C:\Users\ADVIT\Documents\Codex\2026-10-25\i-x20\outputs\course-repo> git checkout main
+Switched to branch 'main'
+M	CODE_OF_CONDUCT.md
+M	CONTRIBUTING.md
+M	LICENSE
+M	simple-interest.sh
+Your branch is up to date with 'origin/main'.
+
+PS C:\Users\ADVIT\Documents\Codex\2026-10-25\i-x20\outputs\course-repo> git merge bug-fix-typo
+Updating 167dd73..52560af
+Fast-forward
+ README.md | 2 +-
+ 1 file changed, 1 insertion(+), 1 deletion(-)
