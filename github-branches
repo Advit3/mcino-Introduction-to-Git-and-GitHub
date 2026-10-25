@@ -1,15 +1,11 @@
 PS C:\Users\ADVIT\Documents\Codex\2026-10-25\i-x20\outputs\course-repo> git branch -avv
-  bug-fix-revert      cc8e693 Clarify percentage input for simple interest
-  bug-fix-typo        52560af Fix wording in calculator description
-* main                52560af [origin/main: ahead 1] Fix wording in calculator description
-  remotes/origin/HEAD -> origin/main
-  remotes/origin/main 167dd73 Add simple interest calculator project details
+  bug-fix-revert                cc8e693 Clarify percentage input for simple interest
+  bug-fix-typo                  52560af Fix wording in calculator description
+* main                          e5bb026 [origin/main] Add GitHub course assignment evidence
+  remotes/origin/HEAD           -> origin/main
+  remotes/origin/bug-fix-revert cc8e693 Clarify percentage input for simple interest
+  remotes/origin/bug-fix-typo   52560af Fix wording in calculator description
+  remotes/origin/main           e5bb026 Add GitHub course assignment evidence
 
 PS C:\Users\ADVIT\Documents\Codex\2026-10-25\i-x20\outputs\course-repo> git status --short --branch
-## main...origin/main [ahead 1]
- M CODE_OF_CONDUCT.md
- M CONTRIBUTING.md
- M LICENSE
- M simple-interest.sh
-?? forked-repo
-?? merge_branches
+## main...origin/main
